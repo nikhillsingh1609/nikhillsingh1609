@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @nikhillsingh1609
+- 👀 I’m interested in coding
+- 🌱 I’m currently learning python and c++ 
+- 💞️ I’m looking to collaborate on linkedin
+- 🌟 3 star coder at hacker rank
